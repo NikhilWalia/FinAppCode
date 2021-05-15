@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333783194398",
+    "project_id": "finapp-471f3",
+    "storage_bucket": "finapp-471f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333783194398:android:5d8da72727d8814ba2870f",
+        "android_client_info": {
+          "package_name": "com.example.finapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333783194398-rrhpep2gsm791bgddppls2kupo9vct6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Ptx_M7KVIM_v9wgKM1mDuFCPVSi6QSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333783194398-rrhpep2gsm791bgddppls2kupo9vct6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
